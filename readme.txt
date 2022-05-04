@@ -1,3 +1,3 @@
-Git is a version control system.
+Git is a distributed version control system.
 Git is free software
-This is the first readme.txt in git.
+This is the second readme.txt in git.
